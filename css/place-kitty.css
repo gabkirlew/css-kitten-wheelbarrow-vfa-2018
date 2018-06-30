@@ -1,5 +1,11 @@
 /* Select the image with a class of kitty-1 */
-<img src="images/kitty-1.jpg" alt="kitty-1">
+img.myClass:kitty-1 {
+    border: 1px solid black;
+  position: absolute;
+  z-index: 1;
+  top: 276px;
+  left: 129px;
+}
 
 /*__write_selector_here__*/ 
   img[alt="kitty-1"] {
