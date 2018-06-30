@@ -1,5 +1,6 @@
 /* Select the image with a class of kitty-1 */
 myClass:kitty-1 {
+  /*__write_selector_here__*/ 
     border: 1px solid black;
   position: absolute;
   z-index: 1;
@@ -7,14 +8,6 @@ myClass:kitty-1 {
   left: 129px;
 }
 
-/*__write_selector_here__*/ 
-  img[alt="kitty-1"] {
-  border: 1px solid black;
-  position: absolute;
-  z-index: 1;
-  top: 276px;
-  left: 129px;
-}
 
 /* Select the image with id of kitty-2 */
 
