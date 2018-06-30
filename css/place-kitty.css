@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-img.myClass:kitty-1 {
+myClass:kitty-1 {
     border: 1px solid black;
   position: absolute;
   z-index: 1;
