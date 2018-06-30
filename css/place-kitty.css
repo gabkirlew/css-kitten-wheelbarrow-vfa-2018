@@ -1,13 +1,13 @@
 /* Select the image with a class of kitty-1 */
 myClass:kitty-1 {
   /*__write_selector_here__*/ 
-    border: 1px solid black;
+  border: 1px solid black;
   position: absolute;
   z-index: 1;
   top: 276px;
   left: 129px;
 }
-<img src="images/kitty-1.png" class = kitty-1>
+
 
 /* Select the image with id of kitty-2 */
 
